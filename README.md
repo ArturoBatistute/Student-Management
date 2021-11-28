@@ -2,7 +2,7 @@
 
 ## Intro:
 
-## Tips:
+## How mount the Postgres database
 
 
 * Work in progress
