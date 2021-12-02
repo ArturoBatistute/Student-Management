@@ -9,5 +9,3 @@
 ## API Documentation
 
 * To access the API documentation, type: http://localhost:8080/swagger-ui.html#/student-controller in your browser.
-
-
