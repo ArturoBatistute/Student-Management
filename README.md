@@ -1,14 +1,14 @@
 # Student Management API with Postgres containerized database
 
-<hr>
-
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=Development%20in%20Progress!&color=RED&style=for-the-badge"/>
 </p>
 
 ## Description:
 
-## Setup a Docker Postgres database
+## Technologies
+
+## Getting Started
 
 * Work in progress
 
