@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
+import io.swagger.annotations.ApiResponse;
 
 @Api(value = "Student Management")
 @RestController
@@ -28,6 +29,7 @@ public class StudentController {
 	}
 	
 	@ApiOperation(value = "Create a new student")
+	@ApiResponse(code = 201, message = "Student created successfully")
 	@PostMapping
 	public Student saveStudent(@RequestBody Student student){
 		
